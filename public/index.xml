@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 May 2023 09:07:23 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://example.org/posts/public_network_mapping_230506/</link>
+      <pubDate>Sat, 06 May 2023 09:07:23 +0800</pubDate>
+      
+      <guid>http://example.org/posts/public_network_mapping_230506/</guid>
+      <description>公网映射(IP反代理) ngrok ngrok比localtunnel更加强大和灵活，因为它提供了更多的配置选项和功能，如自定义子域名、多个隧道、HTTPS支持等等。此外，ngrok还有一个方便的Web界面，可以方便地管理和监控隧道。因此，如果您需要更高级的功能和更灵活的配置选项，ngrok可能更适合
+localtunnel localtunnel是一种将本地服务器映射到公网的工具，它可以让您在没有公网IP地址或域名的情况下，将本地服务器暴露到互联网上。localtunnel通过创建一个临时的公网URL，使您可以轻松地与其他人共享您的本地服务器。以下是localtunnel的一些应用场景：
+共享本地网站：如果您正在开发一个本地网站或应用程序，并希望与其他人共享它，但是没有公网IP地址或域名，那么localtunnel可以帮助您将其暴露到互联网上。
+移动应用程序测试：如果您正在开发一个移动应用程序，并且需要测试与本地服务器的交互，那么localtunnel可以帮助您将本地服务器暴露到移动设备上。
+Webhook测试：如果您正在开发一个Webhook或API，并且需要测试其与本地服务器的交互，那么localtunnel可以帮助您将本地服务器暴露到互联网上，以便测试Webhook或API的功能。
+临时文件共享：如果您需要与其他人共享临时文件或资源，但是没有公网IP地址或域名，那么localtunnel可以帮助您将本地服务器暴露到互联网上，以便共享文件或资源。
+总之，localtunnel是一个非常方便的工具，可以帮助您将本地服务器暴露到互联网上，以便与其他人共享和测试。</description>
+    </item>
+    
+  </channel>
+</rss>
