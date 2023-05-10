@@ -1,7 +1,7 @@
 ---
 title: "Linux Guild 230509"
 date: 2023-05-09T16:00:00+08:00
-draft: true
+draft: false
 ---
 
 ### Terminal Guild
