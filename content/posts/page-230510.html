@@ -1,0 +1,118 @@
+---
+title: "Page 230510"
+date: 2023-05-10T16:07:07+08:00
+draft: true
+---
+
+<html>
+
+<head>
+    <style type="text/css">
+    .submit {
+        width: 80px;
+        height: 60px;
+        color: red;
+        border-width: 1px;
+        border-color: red;
+    }
+    </style>
+    <script>
+        function convertToBase64() {
+        // const input = event.target
+        const input = document.querySelector('.likeImg')
+        const file = input.files[0]
+        const reader = new FileReader()
+        reader.readAsDataURL(file)
+        reader.onload = function () {
+          const dataUrl = reader.result
+          const base64 = dataUrl.split(',')[1]
+          generateImage(base64)
+        }
+        reader.onerror = function (error) {
+          console.log('Error: ', error)
+          logError('Error: ' + error)
+        }
+      }
+
+      function generateImage(base64) {
+        const apiKey = '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'
+        const promptInput = document.getElementById('prompt-input')
+        const prompt = promptInput.value
+
+        if (!prompt) {
+          alert("请输入提示词")
+          return
+        }
+
+        const imageUrl = 'https://api.openai.com/v1/images/generations'
+        const request = {
+          model: 'image-alpha-001',
+          prompt: prompt,
+          n: 1,
+          size: '150x150',
+          response_format: 'url'
+        }
+
+        const xhr = new XMLHttpRequest()
+        xhr.open('POST', imageUrl)
+        xhr.setRequestHeader('Content-Type', 'application/json')
+        xhr.setRequestHeader('Authorization', 'Bearer ' + apiKey)
+
+        xhr.onreadystatechange = function () {
+          if (xhr.readyState === XMLHttpRequest.DONE) {
+            if (xhr.status === 200) {
+              const response = JSON.parse(xhr.responseText)
+              const imageUrl = response.data[0].url
+              displayImage(imageUrl)
+            } else {
+              logError('Error: ' + xhr.statusText)
+            }
+          }
+        }
+        xhr.send(JSON.stringify(request))
+      }
+
+      function displayImage(imageUrl) {
+        const image = new Image()
+        image.src = imageUrl
+        document.body.appendChild(image)
+      }
+
+      function logError(error) {
+        const errorMessage = document.createElement('p')
+        errorMessage.style.color = 'red'
+        errorMessage.textContent = error
+        document.body.appendChild(errorMessage)
+      }
+
+      function tapSubmit() {
+        const submitBtn = document.querySelector('.submit')
+        submitBtn.addEventListener('click', function() {
+          console.log('start create image')
+          
+          const input = document.querySelector('.likeImg')
+          const file = input.files[0]
+          if (file) {
+            convertToBase64()
+          } else {
+            generateImage('')
+          }
+          
+        })
+      }
+
+      document.addEventListener("DOMContentLoaded", function() {
+        tapSubmit()
+      })
+
+    </script>
+</head>
+
+<body>
+    <input class="likeImg" type="file">
+    <br><br>
+    Prompt: <input type="text" id="prompt-input">
+    <div class="submit"><span> submit </span></div>
+</body>
+
+</html>
