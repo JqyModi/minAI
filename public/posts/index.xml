@@ -1,18 +1,77 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>http://example.org/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on MinAI</title>
+    <link>https://jqymodi.github.io/minAI/posts/</link>
+    <description>Recent content in Posts on MinAI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 May 2023 09:07:23 +0800</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 May 2023 13:53:39 +0800</lastBuildDate><atom:link href="https://jqymodi.github.io/minAI/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>http://example.org/posts/public_network_mapping_230506/</link>
+      <title>Domain 230510</title>
+      <link>https://jqymodi.github.io/minAI/posts/domain-230510/</link>
+      <pubDate>Wed, 10 May 2023 13:53:39 +0800</pubDate>
+      
+      <guid>https://jqymodi.github.io/minAI/posts/domain-230510/</guid>
+      <description>域名服务商 GoDaddy Namecheap Bluehost 购买主机域名免费一年
+Domain HostGator 购买主机域名免费一年
+Google Alibaba Cloud DreamHost 1&amp;amp;1 IONOS .com域名1US一年
+Name 2US7年 教程 折扣码
+cart.onamae </description>
+    </item>
+    
+    <item>
+      <title>Free Vpn 230509</title>
+      <link>https://jqymodi.github.io/minAI/posts/free-vpn-230509/</link>
+      <pubDate>Tue, 09 May 2023 17:49:53 +0800</pubDate>
+      
+      <guid>https://jqymodi.github.io/minAI/posts/free-vpn-230509/</guid>
+      <description>Free VPN CloudFlare + Telegram 教程 下载地址</description>
+    </item>
+    
+    <item>
+      <title>Linux Guild 230509</title>
+      <link>https://jqymodi.github.io/minAI/posts/linux-guild-230509/</link>
+      <pubDate>Tue, 09 May 2023 16:00:00 +0800</pubDate>
+      
+      <guid>https://jqymodi.github.io/minAI/posts/linux-guild-230509/</guid>
+      <description>Terminal Guild Ctrl + c：终止当前正在运行的命令。 Ctrl + d：在命令行中输入EOF（End of File）字符，表示输入结束。 Ctrl + l：清空屏幕。 Ctrl + a：将光标移动到命令行的开头。 Ctrl + e：将光标移动到命令行的结尾。 Ctrl + k：删除光标位置到命令行结尾的所有字符。 Ctrl + r：搜索之前输入的命令。 Tab：自动补全命令或文件名。 </description>
+    </item>
+    
+    <item>
+      <title>Markdown Guild</title>
+      <link>https://jqymodi.github.io/minAI/posts/markdown-guild-230508/</link>
+      <pubDate>Mon, 08 May 2023 09:52:18 +0800</pubDate>
+      
+      <guid>https://jqymodi.github.io/minAI/posts/markdown-guild-230508/</guid>
+      <description>Markdown 官方
+在线编辑</description>
+    </item>
+    
+    <item>
+      <title>全球邮箱排名</title>
+      <link>https://jqymodi.github.io/minAI/posts/email-rank-230508/</link>
+      <pubDate>Mon, 08 May 2023 09:06:03 +0800</pubDate>
+      
+      <guid>https://jqymodi.github.io/minAI/posts/email-rank-230508/</guid>
+      <description>全球邮箱排名 邮箱服务提供商 占有率 国家 网址 Gmail 33% 美国 https://www.gmail.com Outlook.com 8% 美国 https://www.outlook.com Yahoo! Mail 6% 美国 https://www.yahoo.com/mail Apple iCloud 5% 美国 https://www.icloud.com Mail.ru 4% 俄罗斯 https://mail.ru QQ Mail 3% 中国 https://mail.qq.com ProtonMail 2% 瑞士 https://protonmail.com Yandex Mail 2% 俄罗斯 https://mail.yandex.com GMX Mail 1% 德国 https://signup.gmx.com Naver Mail 0.5% 韩国 https://mail.naver.com </description>
+    </item>
+    
+    <item>
+      <title>企业&amp;机构邮箱</title>
+      <link>https://jqymodi.github.io/minAI/posts/edu-mail-230507/</link>
+      <pubDate>Sun, 07 May 2023 13:04:23 +0800</pubDate>
+      
+      <guid>https://jqymodi.github.io/minAI/posts/edu-mail-230507/</guid>
+      <description>edu mail Nevada EDU 申请教程 申请邮箱：minai01@proton.me 10天内回复 business mail </description>
+    </item>
+    
+    <item>
+      <title>公网映射</title>
+      <link>https://jqymodi.github.io/minAI/posts/public-network-mapping-230506/</link>
       <pubDate>Sat, 06 May 2023 09:07:23 +0800</pubDate>
       
-      <guid>http://example.org/posts/public_network_mapping_230506/</guid>
+      <guid>https://jqymodi.github.io/minAI/posts/public-network-mapping-230506/</guid>
       <description>公网映射(IP反代理) ngrok ngrok比localtunnel更加强大和灵活，因为它提供了更多的配置选项和功能，如自定义子域名、多个隧道、HTTPS支持等等。此外，ngrok还有一个方便的Web界面，可以方便地管理和监控隧道。因此，如果您需要更高级的功能和更灵活的配置选项，ngrok可能更适合
 localtunnel localtunnel是一种将本地服务器映射到公网的工具，它可以让您在没有公网IP地址或域名的情况下，将本地服务器暴露到互联网上。localtunnel通过创建一个临时的公网URL，使您可以轻松地与其他人共享您的本地服务器。以下是localtunnel的一些应用场景：
 共享本地网站：如果您正在开发一个本地网站或应用程序，并希望与其他人共享它，但是没有公网IP地址或域名，那么localtunnel可以帮助您将其暴露到互联网上。

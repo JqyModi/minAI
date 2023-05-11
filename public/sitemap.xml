@@ -2,17 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/posts/public_network_mapping_230506/</loc>
+    <loc>https://jqymodi.github.io/minAI/</loc>
+    <lastmod>2023-05-11T13:54:39+08:00</lastmod>
+  </url><url>
+    <loc>https://jqymodi.github.io/minAI/test/test2/</loc>
+    <lastmod>2023-05-11T13:54:39+08:00</lastmod>
+  </url><url>
+    <loc>https://jqymodi.github.io/minAI/test/</loc>
+    <lastmod>2023-05-11T13:54:39+08:00</lastmod>
+  </url><url>
+    <loc>https://jqymodi.github.io/minAI/test/test1/</loc>
+    <lastmod>2023-05-11T13:53:39+08:00</lastmod>
+  </url><url>
+    <loc>https://jqymodi.github.io/minAI/posts/domain-230510/</loc>
+    <lastmod>2023-05-10T13:53:39+08:00</lastmod>
+  </url><url>
+    <loc>https://jqymodi.github.io/minAI/posts/</loc>
+    <lastmod>2023-05-10T13:53:39+08:00</lastmod>
+  </url><url>
+    <loc>https://jqymodi.github.io/minAI/posts/free-vpn-230509/</loc>
+    <lastmod>2023-05-09T17:49:53+08:00</lastmod>
+  </url><url>
+    <loc>https://jqymodi.github.io/minAI/posts/linux-guild-230509/</loc>
+    <lastmod>2023-05-09T16:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://jqymodi.github.io/minAI/posts/markdown-guild-230508/</loc>
+    <lastmod>2023-05-08T09:52:18+08:00</lastmod>
+  </url><url>
+    <loc>https://jqymodi.github.io/minAI/posts/email-rank-230508/</loc>
+    <lastmod>2023-05-08T09:06:03+08:00</lastmod>
+  </url><url>
+    <loc>https://jqymodi.github.io/minAI/posts/edu-mail-230507/</loc>
+    <lastmod>2023-05-07T13:04:23+08:00</lastmod>
+  </url><url>
+    <loc>https://jqymodi.github.io/minAI/posts/public-network-mapping-230506/</loc>
     <lastmod>2023-05-06T09:07:23+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
-    <lastmod>2023-05-06T09:07:23+08:00</lastmod>
+    <loc>https://jqymodi.github.io/minAI/categories/</loc>
   </url><url>
-    <loc>http://example.org/posts/</loc>
-    <lastmod>2023-05-06T09:07:23+08:00</lastmod>
-  </url><url>
-    <loc>http://example.org/categories/</loc>
-  </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://jqymodi.github.io/minAI/tags/</loc>
   </url>
 </urlset>

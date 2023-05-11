@@ -2,3 +2,17 @@ baseURL = 'https://jqymodi.github.io/minAI/'
 languageCode = 'en-us'
 title = 'MinAI'
 theme = 'ananke'
+
+[menu]
+[[menu.main]]
+  name = 'Home11'
+  pageRef = '/'
+  weight = 10
+[[menu.main]]
+  name = 'Products11'
+  pageRef = '/products'
+  weight = 20
+[[menu.main]]
+  name = 'Services11'
+  pageRef = '/services'
+  weight = 30

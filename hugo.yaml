@@ -1,0 +1,28 @@
+baseURL: 'https://jqymodi.github.io/minAI/'
+languageCode: 'en-us'
+title: 'MinAI'
+theme: 'ananke'
+params:
+  cover: img/icon_search.jpg
+menu:
+  main:
+  - name: Test
+    pageRef: /test
+    weight: 10
+  - name: Hardware
+    pageRef: /test/test1
+    parent: Test
+    weight: 1
+  - name: Software
+    pageRef: /test/test2
+    parent: Test
+    weight: 2
+  - name: Services
+    pageRef: /services
+    weight: 20
+  - name: Hugo
+    params:
+      rel: external
+    pre: <i class="fa fa-heart"></i>
+    url: https://gohugo.io/
+    weight: 30

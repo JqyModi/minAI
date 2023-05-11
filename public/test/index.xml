@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tests on MinAI</title>
+    <link>https://jqymodi.github.io/minAI/test/</link>
+    <description>Recent content in Tests on MinAI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 May 2023 13:54:39 +0800</lastBuildDate><atom:link href="https://jqymodi.github.io/minAI/test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test2</title>
+      <link>https://jqymodi.github.io/minAI/test/test2/</link>
+      <pubDate>Thu, 11 May 2023 13:54:39 +0800</pubDate>
+      
+      <guid>https://jqymodi.github.io/minAI/test/test2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test1</title>
+      <link>https://jqymodi.github.io/minAI/test/test1/</link>
+      <pubDate>Thu, 11 May 2023 13:53:39 +0800</pubDate>
+      
+      <guid>https://jqymodi.github.io/minAI/test/test1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
