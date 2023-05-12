@@ -1,7 +1,7 @@
 ---
 title: "Google Bard"
 date: 2023-05-12T14:46:27Z
-draft: true
+draft: false
 ---
 
 ### [Google Bard](https://bard.google.com/)
