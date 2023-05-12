@@ -1,5 +1,5 @@
 ---
-title: "Hugo Theme Guild 230512"
+title: "Hugo Theme Guild"
 date: 2023-05-12T11:49:04+08:00
 draft: false
 cover:
