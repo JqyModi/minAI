@@ -3,7 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://jqymodi.github.io/minAI/</loc>
-    <lastmod>2023-05-11T13:54:39+08:00</lastmod>
+    <lastmod>2023-05-12T10:05:22+08:00</lastmod>
+  </url><url>
+    <loc>https://jqymodi.github.io/minAI/search/search/</loc>
+    <lastmod>2023-05-12T10:05:22+08:00</lastmod>
+  </url><url>
+    <loc>https://jqymodi.github.io/minAI/search/</loc>
+    <lastmod>2023-05-12T10:05:22+08:00</lastmod>
   </url><url>
     <loc>https://jqymodi.github.io/minAI/test/test2/</loc>
     <lastmod>2023-05-11T13:54:39+08:00</lastmod>
@@ -17,7 +23,13 @@
     <loc>https://jqymodi.github.io/minAI/posts/domain-230510/</loc>
     <lastmod>2023-05-10T13:53:39+08:00</lastmod>
   </url><url>
+    <loc>https://jqymodi.github.io/minAI/tags/first/</loc>
+    <lastmod>2023-05-10T13:53:39+08:00</lastmod>
+  </url><url>
     <loc>https://jqymodi.github.io/minAI/posts/</loc>
+    <lastmod>2023-05-10T13:53:39+08:00</lastmod>
+  </url><url>
+    <loc>https://jqymodi.github.io/minAI/tags/</loc>
     <lastmod>2023-05-10T13:53:39+08:00</lastmod>
   </url><url>
     <loc>https://jqymodi.github.io/minAI/posts/free-vpn-230509/</loc>
@@ -39,7 +51,5 @@
     <lastmod>2023-05-06T09:07:23+08:00</lastmod>
   </url><url>
     <loc>https://jqymodi.github.io/minAI/categories/</loc>
-  </url><url>
-    <loc>https://jqymodi.github.io/minAI/tags/</loc>
   </url>
 </urlset>

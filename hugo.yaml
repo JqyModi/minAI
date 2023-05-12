@@ -1,28 +1,159 @@
 baseURL: 'https://jqymodi.github.io/minAI/'
 languageCode: 'en-us'
 title: 'MinAI'
-theme: 'ananke'
+# 设置主题
+theme: 'PaperMod'
+# 设置每页显示数量
+paginate: 5
+
+# enableRobotsTXT: true
+# buildDrafts: false
+# buildFuture: false
+# buildExpired: false
+
+# googleAnalytics: UA-123-45
+
+# tag等间距调整
+# minify:
+#   disableXML: true
+#   minifyOutput: true
+
 params:
-  cover: img/icon_search.jpg
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: ExampleSite
+  description: "ExampleSite description"
+  keywords: [Blog, Portfolio, PaperMod]
+  author: Me
+  # author: ["Me", "You"] # multiple authors
+  images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "<link / abs url>"
+    favicon16x16: "<link / abs url>"
+    favicon32x32: "<link / abs url>"
+    apple_touch_icon: "<link / abs url>"
+    safari_pinned_tab: "<link / abs url>"
+
+  label:
+    text: "Home"
+    icon: /apple-touch-icon.png
+    iconHeight: 35
+
+  # profile-mode
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: MinAI
+    subtitle: "A sparrow may be small, but it possesses all five internal organs."
+    imageUrl: "img/icon_search.png"
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: my image
+    buttons:
+      - name: Posts
+        url: posts
+      - name: Tags
+        url: tags
+
+  # home-info mode
+  homeInfoParams:
+    Title: "Hi there \U0001F44B"
+    Content: Welcome to my blog
+
+  socialIcons:
+    - name: twitter
+      url: "https://twitter.com/"
+    - name: stackoverflow
+      url: "https://stackoverflow.com"
+    - name: github
+      url: "https://github.com/"
+
+  analytics:
+    google:
+      SiteVerificationTag: "XYZabc"
+    bing:
+      SiteVerificationTag: "XYZabc"
+    yandex:
+      SiteVerificationTag: "XYZabc"
+
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+  editPost:
+    URL: "https://github.com/<path_to_repo>/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-  - name: Test
-    pageRef: /test
-    weight: 10
-  - name: Hardware
-    pageRef: /test/test1
-    parent: Test
-    weight: 1
-  - name: Software
-    pageRef: /test/test2
-    parent: Test
-    weight: 2
-  - name: Services
-    pageRef: /services
-    weight: 20
-  - name: Hugo
-    params:
-      rel: external
-    pre: <i class="fa fa-heart"></i>
-    url: https://gohugo.io/
-    weight: 30
+    - identifier: categories
+      name: categories
+      url: /categories/
+      weight: 20
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 30
+    - identifier: example
+      name: example.org
+      url: https://example.org
+      weight: 40
+    - identifier: search
+      name: search
+      url: /search
+      weight: 10
+      # pre: '<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none"
+      #       stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      #       <circle cx="11" cy="11" r="8"></circle>
+      #       <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+      #   </svg>'
+      pre: '<img src="img/icon_search.png" style="width:16px; height:16px; display:inline-block;" />&nbsp;'
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai
+
+# 搜索模块固定配置
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
