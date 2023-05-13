@@ -53,6 +53,12 @@ draft: false
     > 点击Export Change
     > 等待分支创建成功 - 修改已被提交到新的分支
 
-#### 如何进行端口映射
+#### 入门
 
-#### 如何替换自定义镜像
+学习[核心概念](https://docs.github.com/zh/codespaces)
+
+配置和管理
+详细了解[机密管理](https://docs.github.com/zh/codespaces/managing-your-codespaces/managing-encrypted-secrets-for-your-codespaces)和[端口转发](https://docs.github.com/zh/codespaces/developing-in-codespaces/forwarding-ports-in-your-codespace)等功能。
+
+本地开发
+从[Visual Studio Code](https://docs.github.com/en/codespaces/developing-in-codespaces/using-github-codespaces-in-visual-studio-code)或JetBrains中访问代码空间。
