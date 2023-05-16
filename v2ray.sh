@@ -1,34 +1,4 @@
----
-title: "Domain"
-description: "Desc Text."
-date: 2023-05-10T13:53:39+08:00
-draft: false
----
-
-### 域名服务商
-- [GoDaddy](https://www.godaddy.com)
-- [Namecheap](https://www.namecheap.com)
-- [Bluehost](https://www.bluehost.com)
-    > 购买主机域名免费一年
-- [Domain](https://www.domain.com)
-- [HostGator](https://www.hostgator.com)
-    > 购买主机域名免费一年
-- [Google](https://www.domains.google)
-- [Alibaba Cloud](https://www.alibabacloud.com)
-- [DreamHost](https://www.dreamhost.com)
-- [1&1 IONOS](https://www.ionos.com)
-    > .com域名1US一年   
-- [Name](https://www.name.com/)
-    > 2US7年
-    > [教程](https://iweec.com/144.html)
-    > [折扣码](https://www.a2zdiscountcode.com/coupon-store/name-com/)
-- [cart.onamae](https://cart.onamae.com/)
-- [names.co.uk](https://www.names.co.uk/)
-    > 免费一年
-- [freehostia](https://www.freehostia.com/)
-    > 免费一年：主机加域名
-
-    #!/bin/bash
+#!/bin/bash
 
 author=233boy
 # github=https://github.com/233boy/v2ray
