@@ -18,4 +18,4 @@ draft: false
 - 输入用户名、验证邮箱(最好是国外，163收不到邮件)、密码点击注册
 - 注册成功后需要设置域名等
 	- [参考](https://youtu.be/qrlZ5ow764M)
-- [域名注册参考](/posts/domain-230510.md)
+- [域名注册参考](/minAI/posts/domain-230510)
