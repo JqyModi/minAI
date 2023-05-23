@@ -88,6 +88,8 @@ draft: false
 - [VEED](https://www.veed.io/)
     - 视频在线编辑
 - [Rask](https://zh.rask.ai/)
+    - 任意修改适配中的语言还能保持原来的音色(声调)
+
 
 #### AI笔记
 
