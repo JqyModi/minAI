@@ -87,6 +87,7 @@ draft: false
 - [Text to Video](https://invideo.io/)
 - [VEED](https://www.veed.io/)
     - 视频在线编辑
+- [Rask](https://zh.rask.ai/)
 
 #### AI笔记
 
