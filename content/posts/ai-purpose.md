@@ -4,7 +4,11 @@ date: 2023-05-22T13:03:55+08:00
 draft: false
 ---
 
-### 2023! AI迎来爆发式增长，OpenAI - chatgpt 5天100W 1个月1亿用户，创历史新高！
+####    2023~ AI迎来爆发式增长，OpenAI - chatgpt 5天100W 1个月1亿用户，创历史新高！
+
+#### [AI账号合租](https://nf.video/yinhe/web?sharedId=167722)
+
+[![二维码](https://github.com/JqyModi/minAI/blob/main/static/img/yh_invisit_code.png?raw=true)](https://nf.video/yinhe/web?sharedId=167722)
 
 ### AI Bot
 
@@ -36,11 +40,6 @@ draft: false
 - [Discord](https://discord.com/)
 
 
-#### [AI账号合租](https://nf.video/yinhe/web?sharedId=167722)
-
-[![二维码](https://github.com/JqyModi/minAI/blob/main/static/img/yh_invisit_code.png?raw=true)](https://nf.video/yinhe/web?sharedId=167722)
-
-
 #### 修改图片中的元素：形状、动作、表情
 
 [参考](https://huggingface.co/papers/2305.10973)
@@ -66,6 +65,7 @@ draft: false
 - [midjourney](https://midjourney.com/)
     - [twitter](https://twitter.com/midjourney)
     - [无限白嫖攻略](https://youtu.be/lWM7PM2jY2g)
+    - [中文版本](https://www.huashou.club/)
 - [newBing - Image](https://www.bing.com/images/create?form=FLPGEN)
 - [Bard Adobe Firefly](https://firefly.adobe.com/)
     - [参考文章](https://blog.adobe.com/en/publish/2023/05/10/adobe-firefly-adobe-express-google-bard)
@@ -134,6 +134,8 @@ __Text to Music__
 - [copilot](https://github.com/features/copilot)
     - AI自动编程
 
+- [colab](https://colab.research.google.com/)
+    - 谷歌自动编程(python)
 
 #### 国产GPT
 
