@@ -20,6 +20,11 @@ draft: false
 
 - [Bard](https://bard.google.com)
 
+- [Poe](https://poe.com/)
+
+- [C.ai](https://beta.character.ai/)
+
+
 ## AI工具箱
 
 - https://www.futurepedia.io/
@@ -146,6 +151,9 @@ __Text to Music__
 #### 无代码开发
 
 - [bubble](https://bubble.io/)
+
+- [Imagica.ai](https://www.imagica.ai/)
+
 
 - [VPS搭建](https://www.youtube.com/watch?v=w5-a96VHtgM&feature=share)
 
