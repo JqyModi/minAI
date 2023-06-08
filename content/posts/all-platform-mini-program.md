@@ -13,6 +13,10 @@ draft: false
 
 #### 基础技能
 
+- Js
+    - JavaScriptAPI[MDN]文档：https://developer.mozilla.org/en-US/docs/Web/API/
+    - W3Schools文档：https://www.w3schools.com/jsref/met_element_addeventlistener.asp
+
 - Vue.js
     - 官方文档：https://v2.cn.vuejs.org/v2/guide/
     - 菜鸟教程：https://www.runoob.com/vue2/vue-tutorial.html
@@ -24,4 +28,5 @@ draft: false
 - 生命周期
 
 ![Lifecycle](https://v2.cn.vuejs.org/images/lifecycle.png)
+
 

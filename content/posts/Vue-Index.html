@@ -15,5 +15,29 @@ draft: true
 </head>
 <body>
     
+    <div id="app">
+        <p id="testTap">This is a paragraph.</p> 
+        <p>This is a {{message}}.</p>
+    </div>
+
+    {{/*  script start  */}}
+    <script>
+        
+        {{/*  Vue挂载  */}}
+        var app = new Vue({
+          el: '#app',
+          data: {
+            message: 'Hello Vue!'
+          }
+        });
+
+        {{/*  document.querySelector('#testTap').addEventListener('click', {
+            tapP()
+        })  */}}
+
+        function tapP() {
+            console.log('点击了段落')
+        }
+      </script>
 </body>
 </html>
