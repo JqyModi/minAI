@@ -31,12 +31,14 @@ draft: true
           }
         });
 
-        {{/*  document.querySelector('#testTap').addEventListener('click', {
+        document.querySelector('#testTap').addEventListener('click', function(event) {
             tapP()
-        })  */}}
+        })
 
         function tapP() {
             console.log('点击了段落')
+            alert('test tap')
+            app.message = "testTap"
         }
       </script>
 </body>

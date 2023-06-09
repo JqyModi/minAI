@@ -219,4 +219,9 @@ https://www.meiguodizhi.com/
 
 <!-- Tiktok包名
 com.zhiliaoapp.musically.6XABGC7955 -->
+#### 破解应用大全
+
+- [applnn](https://www.applnn.cc/)
+
+
 
