@@ -22,6 +22,9 @@ draft: false
     - 菜鸟教程：https://www.runoob.com/vue2/vue-tutorial.html
 
 
+- Uni-app入门：https://www.lanqiao.cn/courses/7763/learning/?id=296131&compatibility=false
+
+
 - vue-cli: 
 
 
