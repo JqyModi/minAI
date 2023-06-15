@@ -10,6 +10,14 @@ draft: false
 
 [![二维码](https://github.com/JqyModi/minAI/blob/main/static/img/yh_invisit_code.png?raw=true)](https://nf.video/yinhe/web?sharedId=167722)
 
+- [mtcer](https://mtcer.com/)
+
+#### VPN
+
+- [1msyun]((https://1msyun.com/#/register?code=IglwKpIg))
+
+
+
 ### AI Bot
 
 - [ChatGPT](https://chat.openai.com/)
@@ -222,6 +230,16 @@ com.zhiliaoapp.musically.6XABGC7955 -->
 #### 破解应用大全
 
 - [applnn](https://www.applnn.cc/)
+
+- [aneeo](https://aneeo.com/ios)
+
+#### 共享美区ID
+
+- [iosfls](https://iosfls.cf/ID/)
+
+- [1msyun](https://1msyun.com/#/knowledge?tag=%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B&aid=3)
+
+
 
 
 
