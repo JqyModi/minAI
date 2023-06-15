@@ -32,6 +32,22 @@ draft: false
 
 - [C.ai](https://beta.character.ai/)
 
+- [ChatGPT-Midjourney](https://chat-gpt-midjourney-230610.vercel.app/#/)
+
+
+### 本地搭建AI
+
+- [ChatGPT-Midjourney](https://chat-gpt-midjourney-230610-fv3wyjxp9-jqy-wy-163com.vercel.app/#/chat)
+
+- [ChatGPT-zhile](https://chat.zhile.io/c/2184da9c-0d53-4338-99fe-ab334d857599)
+
+<!-- - [Bing-Local]() -->
+
+### AI在线体验大全
+
+- [chatgpt.quickso](https://chatgpt.quickso.cn/)
+
+
 
 ## AI工具箱
 
@@ -68,6 +84,9 @@ draft: false
 提示词辅助编辑
 - https://github.com/Moonvy/OpenPromptStudio
 - https://github.com/thunlp/OpenPrompt
+
+- [便宜使用Midjourney](https://www.youtube.com/watch?v=onR5rsy3pVM)
+
 
 平台
 - [prompthunt](https://www.prompthunt.com/)
@@ -238,6 +257,13 @@ com.zhiliaoapp.musically.6XABGC7955 -->
 - [iosfls](https://iosfls.cf/ID/)
 
 - [1msyun](https://1msyun.com/#/knowledge?tag=%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B&aid=3)
+
+
+
+
+#### 苹果发布会
+
+- [视频](https://events-delivery.apple.com/0105cftwpxxsfrpdwklppzjhjocakrsk/m3u8/vod_index-PQsoJoECcKHTYzphNkXohHsQWACugmET.m3u8)
 
 
 

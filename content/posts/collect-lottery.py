@@ -45,7 +45,7 @@ def fetch_lottery_history(page_size):
         print('Failed to fetch lottery history.')
 
 # 设置要采集的历史开奖期数
-page_size = 30
+page_size = 10
 
 fetch_lottery_history(page_size)
 

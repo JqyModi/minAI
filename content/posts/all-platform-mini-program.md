@@ -23,6 +23,9 @@ draft: false
     - 视频教程：https://learning.dcloud.io/#/
 
 
+- Uni-app入门：https://www.lanqiao.cn/courses/7763/learning/?id=296131&compatibility=false
+
+
 - vue-cli: 
 
 
