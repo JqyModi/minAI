@@ -20,6 +20,7 @@ draft: false
 - Vue.js
     - 官方文档：https://v2.cn.vuejs.org/v2/guide/
     - 菜鸟教程：https://www.runoob.com/vue2/vue-tutorial.html
+    - 视频教程：https://learning.dcloud.io/#/
 
 
 - Uni-app入门：https://www.lanqiao.cn/courses/7763/learning/?id=296131&compatibility=false
