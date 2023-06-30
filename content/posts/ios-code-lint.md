@@ -28,7 +28,7 @@ draft: true
 
 - 第三方模板
 
-    GitLab CI/CD Configuration Templates: https://gitlab.com/gitlab-org/gitlab-ci-templates
+    GitLab CI/CD Configuration Templates: https://docs.gitlab.com/ee/ci/examples/index.html#cicd-templates
     GitLab CI/CD Configuration Generator: https://gitlab.com/gitlab-org/gitlab-ci-cd-config-generator
     
 

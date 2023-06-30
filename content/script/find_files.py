@@ -109,49 +109,27 @@ def main():
     # file_names_str = sys.argv[1]
     # folder = sys.argv[2]
     file_names_str = """
-MFKCloud.h
-MOJiCommentCloud.h
-MOJiCommentCloud.m
-MOJiCarouselView.m
-MOJiCarouselViewCell.m
-MOJiCarouselViewFlowLayout.m
-MOJiCommentInputView.m
-MOJiReadingSearchBar.h
-MOJiReadingSearchBar.m
-MOJiSearchFloatTouchInterceptor.m
-MDCacheHelper.h
-MDCacheHelper.m
-MDCommonHelper.m
-MDConfigHelper.h
-MDConfigHelper.m
-MDDBObjectCopyer.m
-MDUrlHelper.h
-MDUrlHelper.m
-MOJiReadingApi.swift
-Article.h
-MDAppConstant.h
-MDAppConstant.m
-MOJiReadSwiftGlobal.swift
-MOJiAvatarImageView.h
-MOJiAvatarImageView.m
-PublicDBManager.m
-MOJiArticleAudioPlayerVC.swift
-MOJiArticleAudioSettingVC.swift
-MOJiColumnArticleSearchVC.swift
-MOJiColumnDetailVC.swift
-MOJiReadingArticleDetailVC.swift
-MOJiReadingLibraryVC.swift
-MOJiReadingVC.swift
-MOJiArticleLrcModel.swift
-MOJiVideoColumnModel.swift
-MOJiReaderCell.swift
-ArticleAudioSettingHelper.swift
-MOJiAnalysisHelper.m
-MOJiVideoPlayerTool.swift
-MOJiArticleColumnView.swift
+MOJiAIVC.swift
+MOJiAICloud.swift
+MOJiAIAnswerGPTCell.swift
+MOJiAIAnswerWordCell.swift
+MOJiAIQuestionCell.swift
+MDFavBaseVC.m
+MOJiFavAlertVC.swift
+MOJiFavBaseTableVC.m
+MOJiSearchWordListVC.swift
+MOJiWordListMsgVC.swift
+MOJiQACloud.swift
+MOJiQAMatchView.swift
+MOJiHomeBaseVC.h
+MOJiHomeBaseVC.m
+MOJiHomeVC.swift
+MOJiAudioHelper.m
+MOJiProHomeVC.m
+MOJiProProductCollectionCell.m
     """
 
-    folder = '/Volumes/WJHD/xcode/Project/MainApp/moji-read/MOJiRead/MOJiRead/Classes'
+    folder = '/Volumes/WJHD/xcode/Project/MainApp/mojidict_ios/MOJIDict/MOJIDict/Classes'
 
     # 调用方法进行文件过滤
     m_files, swift_files = filter_files(file_names_str)
@@ -194,7 +172,7 @@ MOJiArticleColumnView.swift
         # 指定要提取的文件夹
         print("要提取的文件夹:", copy_folder)
 
-        merge_code(copy_folder, mergePath)
+        # merge_code(copy_folder, mergePath)
 
 
 
