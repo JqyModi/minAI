@@ -7,6 +7,7 @@ draft: false
 #### Ubuntu宝塔面板安装
 
 [参考地址](https://www.bt.cn/bbs/thread-19376-1-1.html)
+[宝塔官方教程](https://www.bt.cn/admin/servers#wcu)
 
 ubuntu安装地址命令
     wget -O install.sh https://download.bt.cn/install/install-ubuntu_6.0.sh && sudo bash install.sh 12f2c1d72
